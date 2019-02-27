@@ -1,0 +1,66 @@
+* {
+
+    box-sizing: border-box;
+    
+    }
+
+body {
+    background-color: lightgrey;
+}
+
+.brand-logo {
+    /* margin-left: 130px !important; */
+}
+
+.nav-wrapper {
+    width: 82%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+#nav-mobile {
+
+    /* padding-right: 150px !important; */
+}
+
+.page-footer {
+    /* padding-bottom: 25px !important; */
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+#block {
+
+    background-color: teal;
+width: 100%;
+}
+
+#name{
+
+    background-color: teal;
+}
+
+.logo {
+    /* height: 100%; */
+    font-size: 20px;
+    position: relative;
+    padding: 22px 16px 22px 16px;
+}
+
+/* @media only screen and (max-width: 980px) {
+body
+}
+
+@media only screen and (max-width: 768px) {
+    body
+    }
+
+    @media only screen and (max-width: 640px) {
+        body
+        } */
+
+    
